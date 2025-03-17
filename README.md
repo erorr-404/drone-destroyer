@@ -1,2 +1,12 @@
-# drone-destroyer
-Arduino Nano game
+# Drone Destroyer
+
+Arduino Nano game. You take role of **F-16 ukrainian pilot**. You need to destroy drones. It is bad to lose drone.
+
+## Rules
+Game has 2 counters: **score** and **money**. At start you get _10$_ and your score is _1_. 
+
+When you shoot with bullet, you pay _1$_. When you launch rocket, you pay _4$_.
+
+Every destroyed drone with bullet gives you _2$_. If you destroy drones with rocket, you get `DRONE_VALUE * destroyedEnemies * DRONE_VALUE_MULT`, where `DRONE_VALUE` is _2$_ and `DRONE_VALUE_MULT` is _2_.
+
+Your target is to get the highest score. You lose when score is _0_ or no money left.
