@@ -23,3 +23,13 @@ Your target is to get the highest score. You lose when score is _0_ or no money 
 - 2 small beradboards or 1 big
 
 ## Connection diagram
+
+Potentiometer -> A3
+Bullet Button -> 6
+Buzzer -> 10
+Rocket Button -> 4
+Rocket Ready LED -> 5
+
+![image](https://github.com/user-attachments/assets/4ff29afa-6b94-4530-9b9d-c5c3816329da)
+
+
