@@ -21,15 +21,20 @@ Your target is to get the highest score. You lose when score is _0_ or no money 
 - Led
 - 2 resistors
 - 2 small beradboards or 1 big
+- Jumper Wires
 
 ## Connection diagram
 
-Potentiometer -> A3
-Bullet Button -> 6
-Buzzer -> 10
-Rocket Button -> 4
-Rocket Ready LED -> 5
+- Potentiometer -> A3
+- Bullet Button -> 6
+- Buzzer -> 10
+- Rocket Button -> 4
+- Rocket Ready LED -> 5
 
 ![image](https://github.com/user-attachments/assets/4ff29afa-6b94-4530-9b9d-c5c3816329da)
 
+## Result
+
+![IMG_20250317_115830_305](https://github.com/user-attachments/assets/acbee838-170c-404c-812d-ce00d830a40b)
+![IMG_20250317_115830_231](https://github.com/user-attachments/assets/632eafab-56d9-49b0-a930-1ea8d81735e8)
 
