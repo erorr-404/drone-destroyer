@@ -10,3 +10,16 @@ When you shoot with bullet, you pay _1$_. When you launch rocket, you pay _4$_.
 Every destroyed drone with bullet gives you _2$_. If you destroy drones with rocket, you get `DRONE_VALUE * destroyedEnemies * DRONE_VALUE_MULT`, where `DRONE_VALUE` is _2$_ and `DRONE_VALUE_MULT` is _2_.
 
 Your target is to get the highest score. You lose when score is _0_ or no money left.
+
+## Needed components
+
+- Arduino Nano
+- Passive buzzer
+- 0.96 OLED Arduino display module 128х64 with I2C pins
+- 2 push buttons
+- Potentiometer
+- Led
+- 2 resistors
+- 2 small beradboards or 1 big
+
+## Connection diagram
